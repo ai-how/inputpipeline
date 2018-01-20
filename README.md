@@ -1,2 +1,0 @@
-# inputpipeline
-Writing custom pipelines
